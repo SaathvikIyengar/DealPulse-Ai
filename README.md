@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:111827,100:064E3B&height=240&section=header&text=DealPulse%20AI&fontSize=58&fontColor=10B981&fontAlignY=38&desc=Institutional%20Private%20Equity%20LBO%20%26%20AI%20Due%20Diligence%20Terminal&descSize=17&descColor=E5E7EB&descAlignY=62&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:111827,100:064E3B&height=240&section=header&text=DealPulse%20AI&fontSize=58&fontColor=10B981&fontAlignY=38&desc=Institutional%20Private%20Equity%20LBO%20and%20AI%20Due%20Diligence%20Terminal&descSize=17&descColor=E5E7EB&descAlignY=62&animation=fadeIn" width="100%" />
 
 <p>
   <img src="https://img.shields.io/badge/Python-3.10%2B-0F172A?style=for-the-badge&logo=python&logoColor=10B981" alt="Python" />
   <img src="https://img.shields.io/badge/Streamlit-Live%20Terminal-0F172A?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
   <img src="https://img.shields.io/badge/Plotly-Interactive%20Analytics-0F172A?style=for-the-badge&logo=plotly&logoColor=3B82F6" alt="Plotly" />
   <img src="https://img.shields.io/badge/Gemini%202.5-AI%20Diligence-0F172A?style=for-the-badge&logo=googlegemini&logoColor=A855F7" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/Private%20Equity-LBO%20%26%20IRR%20Engine-064E3B?style=for-the-badge" alt="Private Equity" />
+  <img src="https://img.shields.io/badge/Private%20Equity-LBO%20%2F%20IRR%20Engine-064E3B?style=for-the-badge" alt="Private Equity" />
 </p>
 
 <p>
