@@ -44,7 +44,6 @@ flowchart LR
     style A fill:#111827,stroke:#374151,color:#F9FAFB
     style B fill:#064E3B,stroke:#10B981,color:#ECFDF5
     style C fill:#1E1B4B,stroke:#6366F1,color:#EEF2FF
-    style D fill:#111827,stroke:#10B981,color:#F9FAFB
     style E fill:#111827,stroke:#10B981,color:#F9FAFB
     style F fill:#111827,stroke:#6366F1,color:#F9FAFB
     style G fill:#0F172A,stroke:#3B82F6,color:#F9FAFB
